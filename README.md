@@ -1,41 +1,54 @@
 # Hi there! 👋 I'm Mahdi Barzegar Nazari
 
-🎓 **Computer Engineering Student** | Learning Programming & Building My Skills
+🎓 **Computer Engineering Student** | Aspiring Software Developer | Open Source Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Computer Engineering student, currently in my **2nd semester**
-- 🌱 Learning **programming fundamentals** and problem-solving
-- 📚 Building my foundation in **C++ programming**
-- 🎯 Passionate about technology and software development
-- 🔧 Getting familiar with **Git** and **GitHub** for version control
+- 💻 2nd Semester Computer Engineering student, building a strong foundation in software & hardware
+- 🌱 Currently diving into **Advanced Programming (Java)** and **Digital Logic Circuits**
+- 📚 Expanding my problem-solving skills with **Discrete Mathematics**
+- 🎯 Passionate about using AI tools to accelerate learning and development
+- 🤝 Goal: To contribute to open-source projects and share learning resources with the Persian-speaking developer community
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 **Programming:**
+- ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) Java (Advanced)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) C++ (Fundamentals)
 
-**Tools:**
+**Tools & Platforms:**
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) GitHub
+- AI-Assisted Development (Prompt Engineering)
 
 ---
 
-## 📚 What I'm Learning
+## 📚 Currently Learning
 
-- Advanced Programming
-- Problem-solving & Logic Building
-- Mathematics for Computer Science
+- **Advanced Java Programming** (OOP, Data Structures in Java)
+- **Digital Logic Design** (Gates, Flip-Flops, Circuit Simplification)
+- **Discrete Mathematics** (Logic, Set Theory, Graph Theory)
+- **Physics for Engineers**
+
+---
+
+## 🌱 Open Source Contribution Goals
+
+My mission is to use AI to bridge educational gaps. I plan to open-source:
+- 📝 Persian-language guides for using AI tools (like Claude & DeepSeek) in programming education
+- ✨ Ready-to-use prompt libraries for students learning CS topics
+- 📦 Small Java and C++ projects and exercises with step-by-step explanations
 
 ---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-barzegar-nazari/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mahdi-barzegar-nazari)
 
 ---
 
