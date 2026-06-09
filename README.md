@@ -39,7 +39,7 @@
 ## 🌱 Open Source Contribution Goals
 
 My mission is to use AI to bridge educational gaps. I plan to open-source:
-- 📝 Persian-language guides for using AI tools (like Claude & DeepSeek) in programming education
+- 📝 Persian-language guides for using AI tools (like Claude & DeepSeek & ...) in programming education
 - ✨ Ready-to-use prompt libraries for students learning CS topics
 - 📦 Small Java and C++ projects and exercises with step-by-step explanations
 
