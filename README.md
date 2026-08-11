@@ -7,16 +7,12 @@
     </a>
   </p>
 </div>
-
 ### 📌 About Me
-
 - 🎓 **Computer Engineering Student** interested in software engineering, problem-solving, and writing clean, maintainable code.
 - 💻 Working with **Java** and **C++** through academic coursework and hands-on projects; currently expanding my skills in **Python**.
 - 🤖 Exploring **AI-assisted workflows** for debugging, documentation, learning, and improving development productivity.
 - 🌐 Interested in creating open-source learning resources and practical guides for Computer Science students.
-
 ---
-
 ### 🛠️ Tools & Technologies
 
 | Category | Skills & Environment |
@@ -27,23 +23,16 @@
 | **Workflows** | AI-Assisted Development |
 
 ---
-
 ### 📚 Academic Background
-
 - **Advanced Programming (Java):** Object-Oriented Design, Data Structures, and Software Development Fundamentals.
 - **Systems & Hardware:** C++ Programming and Digital Logic Circuit Design.
 - **Theoretical CS:** Discrete Mathematics.
-
 ---
-
 ### 🎯 Goals & Repositories
-
 - 📦 **Academic & Practice Projects:** Coursework assignments, lab implementations, and small projects in Java, C++, and Python.
-- 💡 **CS Prompt Library:** Practical prompts designed to help students understand and break down complex Computer Science concepts using AI tools.
+- 💡 **[CS Prompt Library](https://github.com/mahdi-barzegar-nazari/prompt-library):** Practical prompts designed to help students understand and break down complex Computer Science concepts using AI tools.
 - 📘 **Educational Guides:** Notes, documentation, and resources for learning software development more effectively with modern AI tools.
-
 ---
-
 <p align="center">
   <i>"Every expert was once a beginner."</i>
 </p>
