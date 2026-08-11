@@ -1,10 +1,9 @@
-<h1 align="center">Hi there, I'm Mahdi Barzegar Nazari 👋</h1>
-<p align="center">
-  <b>Computer Engineering Student</b>
-</p>
-<p align="center">
-  <a href="mailto:m.barzegar.nazari@gmail.com"><img src="https://img.shields.io/badge/Email-m.barzegar.nazari%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+# Hi there, I'm Mahdi Barzegar Nazari 👋
+**Computer Engineering Student**
+<a href="mailto:m.barzegar.nazari@gmail.com"><img src="https://img.shields.io/badge/Email-m.barzegar.nazari%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</div>
+---
 ### 📌 About Me
 * 🎓 **Computer Engineering Student** interested in software engineering, problem-solving, and writing clean, maintainable code.
 * 💻 Working with **Java** and **C++** through academic coursework and hands-on projects; currently expanding my skills in **Python**.
