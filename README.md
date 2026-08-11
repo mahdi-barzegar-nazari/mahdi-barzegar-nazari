@@ -1,55 +1,43 @@
-# Hi there! 👋 I'm Mahdi Barzegar Nazari
+<h1 align="center">Hi there, I'm Mahdi Barzegar Nazari 👋</h1>
+<p align="center">
+  <b>Computer Engineering Student</b> | <b>Software Developer</b> | <b>AI-Assisted Workflow Enthusiast</b>
+</p>
+<p align="center">
+  <a href="mailto:m.barzegar.nazari@gmail.com"><img src="https://img.shields.io/badge/Email-m.barzegar.nazari%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/mahdi-barzegar-nazari"><img src="https://img.shields.io/badge/GitHub-mahdi--barzegar--nazari-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+---
+### 📌 About Me
+* 🎓 **Computer Engineering Student** building a strong foundation in software engineering and computer science theory.
+* 💻 Core expertise in **Java** and **C++**, currently expanding into **Python**.
+* 🤖 Deep interest in **AI-Assisted Development**, using tools like ChatGPT, Claude, and Gemini to optimize learning and coding efficiency.
+* 🌐 Dedicated to building open-source resources, prompt libraries, and educational content for the developer community.
+---
+### 🛠️ Tech Stack & Tools
 
-🎓 **Computer Engineering Student** | Aspiring Software Developer | Open Source Enthusiast
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python_(Learning)-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **AI Workflows** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **Tools & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square&logo=openai&logoColor=white) |
 
 ---
-
-## 🚀 About Me
-
-- 💻 2nd Semester Computer Engineering student, building a strong foundation in software & hardware
-- 🌱 Currently diving into **Advanced Programming (Java)** and **Digital Logic Circuits**
-- 📚 Expanding my problem-solving skills with **Discrete Mathematics**
-- 🎯 Passionate about using AI tools to accelerate learning and development
-- 🤝 Goal: To contribute to open-source projects and share learning resources with the Persian-speaking developer community
-
+### 🧠 Core CS Foundations
+* **Advanced Programming (Java):** Object-Oriented Programming (OOP), Data Structures, and Clean Code principles.
+* **Low-Level & Hardware Fundamentals:** C++ basics and Digital Logic Circuit design.
+* **Theoretical CS:** Discrete Mathematics, Boolean Algebra, and Algorithmic Thinking.
 ---
-
-## 🛠️ Skills & Technologies
-
-**Programming:**
-- ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) Java (Advanced)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) C++ (Fundamentals)
-
-**Tools & Platforms:**
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) GitHub
-- AI-Assisted Development (Prompt Engineering)
-
+### 🎯 Open Source & Initiatives
+* 💡 **General Prompt Libraries:** Curated, ready-to-use prompt collections for CS concepts, problem-solving, and general learning workflows.
+* 📘 **Persian AI Educational Guides:** Practical guides on integrating AI models (ChatGPT, Claude, Gemini) into developer learning paths.
+* 📦 **Code Repositories:** Code snippets, exercise solutions, and small-to-medium projects in Java, C++, and Python.
 ---
-
-## 📚 Currently Learning
-
-- **Advanced Java Programming** (OOP, Data Structures in Java)
-- **Digital Logic Design** (Gates, Flip-Flops, Circuit Simplification)
-- **Discrete Mathematics** (Logic, Set Theory, Graph Theory)
-- **Physics for Engineers**
-
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-barzegar-nazari&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-barzegar-nazari&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
 ---
-
-## 🌱 Open Source Contribution Goals
-
-My mission is to use AI to bridge educational gaps. I plan to open-source:
-- 📝 Persian-language guides for using AI tools (like Claude & DeepSeek & ...) in programming education
-- ✨ Ready-to-use prompt libraries for students learning CS topics
-- 📦 Small Java and C++ projects and exercises with step-by-step explanations
-
----
-
-## 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:m.barzegar.nazari@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mahdi-barzegar-nazari)
-
----
-
-*"Every expert was once a beginner."* 🚀
+<p align="center">
+  <i>"Every expert was once a beginner."</i>
+</p>
