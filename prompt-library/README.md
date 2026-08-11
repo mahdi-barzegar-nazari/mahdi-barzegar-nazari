@@ -1,24 +1,34 @@
-# 📝 Prompt Library | کتابخانهٔ پرامپت
+<div align="center">
+# 📝 CS & Learning Prompt Library
+A curated collection of modular prompts designed to help students leverage AI tools (ChatGPT, Claude, Gemini) for structured learning, problem-solving, and academic productivity.
+</div>
+---
+## 📖 Overview
+This repository contains ready-to-use prompt files (`.txt`) tailored for Computer Science and academic studies. Instead of just generating direct answers, these prompts configure AI models to act as interactive tutors, code mentors, and study partners.
+---
+## 🚀 How to Use
+1. Click on any prompt file in the [Available Prompts](#-available-prompts) table below.
+2. Copy the full text from the `.txt` file.
+3. Paste it as the first message in a new chat session with your AI model (ChatGPT, Claude, Gemini, etc.).
+4. Begin your interactive learning session!
+---
+## 📚 Available Prompts
 
-این یک مجموعهٔ در حال رشد از پرامپت‌های مفید و آمادهٔ استفاده برای دانشجویان در سراسر جهان است که می‌خواهند از ابزارهای هوش مصنوعی (مانند Claude و ChatGPT) برای یادگیری بهتر و مؤثرتر استفاده کنند.
+| Prompt File | Category | Description |
+| :--- | :--- | :--- |
+| [`coding-coach-prompt.txt`](./coding-coach-prompt.txt) | Development | Patient mentor for debugging, code comprehension, and clean code principles. |
+| [`private-tutor-prompt.txt`](./private-tutor-prompt.txt) | Education | Step-by-step academic tutor for breaking down complex technical concepts. |
+| [`study-planner-coach.txt`](./study-planner-coach.txt) | Productivity | Assistant for designing realistic study schedules and time management. |
+| [`memory-trainer-prompt.txt`](./memory-trainer-prompt.txt) | Learning | Interactive coach using active recall and spaced repetition concepts. |
+| [`english-coach-prompt.txt`](./english-coach-prompt.txt) | Language | Conversational partner for practicing technical writing and English fluency. |
+| [`career-coach-prompt.txt`](./career-coach-prompt.txt) | Career | Advisor for resume structural feedback and interview practice. |
+| [`writing-coach-prompt.txt`](./writing-coach-prompt.txt) | Writing | Guide for drafting clear, structured, and impactful academic text. |
 
-## 📖 راهنمای استفاده
-
-هر فایل `.txt` در این پوشه، شامل یک پرامپت کامل و مستقل است. برای استفاده:
-1. فایل پرامپت مورد نظر را باز کنید.
-2. کل متن داخل فایل را کپی کنید.
-3. در یک گفتگوی جدید با مدل هوش مصنوعی (مثلاً Claude)، آن را پیست (Paste) کرده و گفتگو را شروع کنید.
-
-## 🚀 پرامپت‌های فعلی
-
-| نام فایل | توضیح |
-| :--- | :--- |
-| `memory-trainer-prompt.txt` | **مربی حافظه**: یک مربی تعاملی برای تقویت حافظه و تمرکز. |
-| `private-tutor-prompt.txt` | **مدرس خصوصی**: پرامپتی برای تدریس گام‌به‌گام مفاهیم درسی. |
-| `coding-coach-prompt.txt` | **مربی برنامه‌نویسی**: یک منتور صبور برای رفع اشکال و یادگیری اصولی کد. |
-| `english-coach-prompt.txt` | **مربی زبان انگلیسی**: یک پارتنر تعاملی برای تمرین مکالمه و نوشتن. |
-| `career-coach-prompt.txt` | **مربی رزومه و مسیر شغلی**: یک مشاور برای نوشتن رزومه و آمادگی مصاحبه. |
-| `study-planner-coach.txt` | **مربی برنامه‌ریزی درسی**: یک مشاور برای طراحی برنامهٔ مطالعه و مدیریت زمان. |
-| `writing-coach-prompt.txt` | **مربی نویسندگی و تولید محتوا**: یک راهنما برای نوشتن متون شفاف و تأثیرگذار. |
-
-*به زودی پرامپت‌های بیشتری اضافه خواهد شد.*
+---
+## 🤝 Contributing & Ideas
+Feedback, new prompt ideas, and improvements are always welcome. Feel free to:
+* Open an **Issue** to suggest new prompts or report edge cases.
+* Submit a **Pull Request** if you have a well-tested prompt to add to the library.
+---
+## 📄 License
+Distributed under the MIT License. See `LICENSE` for more information.
