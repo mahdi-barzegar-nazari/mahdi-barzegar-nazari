@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:m.barzegar.nazari@gmail.com"><img src="https://img.shields.io/badge/Email-m.barzegar.nazari%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
-<br />
 ### 📌 About Me
 * 🎓 **Computer Engineering Student** interested in software engineering, problem-solving, and writing clean, maintainable code.
 * 💻 Working with **Java** and **C++** through academic coursework and hands-on projects; currently expanding my skills in **Python**.
