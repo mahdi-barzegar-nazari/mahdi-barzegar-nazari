@@ -72,14 +72,7 @@ I'm a computer engineering student who cares about the parts of software that ou
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahdi-barzegar-nazari&show_icons=true&hide_border=true&theme=tokyonight">
-    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=mahdi-barzegar-nazari&show_icons=true&hide_border=true&theme=default">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-barzegar-nazari&layout=compact&langs_count=6&hide_border=true&theme=tokyonight">
-    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-barzegar-nazari&layout=compact&langs_count=6&hide_border=true&theme=default">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-barzegar-nazari&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
@@ -88,6 +81,7 @@ I'm a computer engineering student who cares about the parts of software that ou
     <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=mahdi-barzegar-nazari&hide_border=true&theme=default">
   </picture>
 </p>
+
 
 ---
 
