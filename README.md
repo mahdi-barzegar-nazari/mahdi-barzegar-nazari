@@ -72,10 +72,6 @@ I'm a computer engineering student who cares about the parts of software that ou
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-barzegar-nazari&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mahdi-barzegar-nazari&hide_border=true&theme=tokyonight">
     <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=mahdi-barzegar-nazari&hide_border=true&theme=default">
