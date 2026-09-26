@@ -88,12 +88,12 @@ I'm a computer engineering student who cares about the parts of software that ou
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahdi-barzegar-nazari&show_icons=true&hide_border=true&theme=tokyonight">
-    <img alt="Mahdi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mahdi-barzegar-nazari&show_icons=true&hide_border=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-barzegar-nazari/mahdi-barzegar-nazari/main/profile-summary-card-output/tokyonight/3-stats.svg">
+    <img alt="Mahdi's GitHub stats" src="https://raw.githubusercontent.com/mahdi-barzegar-nazari/mahdi-barzegar-nazari/main/profile-summary-card-output/default/3-stats.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-barzegar-nazari&layout=compact&hide_border=true&langs_count=5&theme=tokyonight">
-    <img alt="Mahdi's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-barzegar-nazari&layout=compact&hide_border=true&langs_count=5&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-barzegar-nazari/mahdi-barzegar-nazari/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
+    <img alt="Mahdi's top languages" src="https://raw.githubusercontent.com/mahdi-barzegar-nazari/mahdi-barzegar-nazari/main/profile-summary-card-output/default/1-repos-per-language.svg">
   </picture>
 </p>
 
