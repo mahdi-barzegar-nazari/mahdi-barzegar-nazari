@@ -86,6 +86,17 @@ I'm a computer engineering student who cares about the parts of software that ou
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahdi-barzegar-nazari&show_icons=true&hide_border=true&theme=tokyonight">
+    <img alt="Mahdi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mahdi-barzegar-nazari&show_icons=true&hide_border=true&theme=default">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-barzegar-nazari&layout=compact&hide_border=true&langs_count=5&theme=tokyonight">
+    <img alt="Mahdi's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-barzegar-nazari&layout=compact&hide_border=true&langs_count=5&theme=default">
+  </picture>
+</p>
+
 
 ---
 
