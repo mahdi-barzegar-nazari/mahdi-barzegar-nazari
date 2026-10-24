@@ -33,6 +33,7 @@ I'm a computer engineering student who cares about the parts of software that ou
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
+| 🌐 **[Resilient AI Gateway](https://github.com/mahdi-barzegar-nazari/resilient-ai-gateway)** | A Telegram + Bale AI assistant with automatic Groq ⇄ Gemini failover, voice, image, PDF and link understanding, and a student toolbox. Layered architecture, 248 offline tests, Docker and CI. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | 🕵️ **[Spyfall PWA](https://github.com/mahdi-barzegar-nazari/spyfall)** · [Live demo](https://mahdi-barzegar-nazari.github.io/spyfall/) | An offline-first, single-device social-deduction game with Persian RTL UI, 8 themes, a Service Worker cache, Web Audio sound cues, and Canvas scorecard export. Zero dependencies. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white) |
 | 💡 **[CS & Learning Prompt Library](https://github.com/mahdi-barzegar-nazari/prompt-library)** | Nine portable system prompts for tutoring, coaching, and planning, plus a dependency-free Python linter, tests, and CI that validate them on every commit. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | 📘 **[Python Learning](https://github.com/mahdi-barzegar-nazari/python-learning)** | A structured Python fundamentals curriculum: notebooks and exercises covering numbers, strings, lists, dictionaries, and tuples. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
@@ -44,6 +45,7 @@ I'm a computer engineering student who cares about the parts of software that ou
 | Area | What I work with |
 | :--- | :--- |
 | **Languages** | Java and C++ (coursework and projects) · Python (actively learning) · JavaScript (ES6+), HTML5, CSS3 (applied in Spyfall) |
+| **Backend & AI integration** | LLM provider failover (Groq, Gemini) · Telegram and Bale bots · REST API integration · Docker · layered, testable architecture |
 | **Computer science** | Object-oriented programming · data structures · discrete mathematics · digital logic |
 | **Web platform** | Progressive Web Apps · Service Worker and Cache API · Web Audio · Canvas · responsive and RTL layouts |
 | **Engineering practice** | Git and GitHub · GitHub Actions CI · linting and unit testing · technical documentation |
@@ -63,6 +65,7 @@ I'm a computer engineering student who cares about the parts of software that ou
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
 </p>
