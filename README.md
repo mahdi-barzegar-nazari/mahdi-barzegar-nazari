@@ -35,6 +35,7 @@ I'm a computer engineering student who cares about the parts of software that ou
 | :--- | :--- | :--- |
 | 🌐 **[Resilient AI Gateway](https://github.com/mahdi-barzegar-nazari/resilient-ai-gateway)** | A Telegram + Bale AI assistant with automatic Groq ⇄ Gemini failover, voice, image, PDF and link understanding, and a student toolbox. Layered architecture, 248 offline tests, Docker and CI. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | 🕵️ **[Spyfall PWA](https://github.com/mahdi-barzegar-nazari/spyfall)** · [Live demo](https://mahdi-barzegar-nazari.github.io/spyfall/) | An offline-first, single-device social-deduction game with Persian RTL UI, 8 themes, a Service Worker cache, Web Audio sound cues, and Canvas scorecard export. Zero dependencies. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white) |
+| 🎭 **[Mafia PWA](https://github.com/mahdi-barzegar-nazari/mafia)** · [Live demo](https://mahdi-barzegar-nazari.github.io/mafia/) | An offline-first moderator assistant for the Mafia party game, with Persian (RTL) and English (LTR) UI, 8 themes, a versioned Service Worker, a strict Content-Security-Policy, and zero runtime dependencies. In progress: the app shell (step 1 of 4) is done with 534 unit tests, 199 browser tests, CI and automatic Pages deploy; the game logic is next. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | 💡 **[CS & Learning Prompt Library](https://github.com/mahdi-barzegar-nazari/prompt-library)** | Nine portable system prompts for tutoring, coaching, and planning, plus a dependency-free Python linter, tests, and CI that validate them on every commit. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | 📘 **[Python Learning](https://github.com/mahdi-barzegar-nazari/python-learning)** | A structured Python fundamentals curriculum: notebooks and exercises covering numbers, strings, lists, dictionaries, and tuples. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
@@ -44,7 +45,7 @@ I'm a computer engineering student who cares about the parts of software that ou
 
 | Area | What I work with |
 | :--- | :--- |
-| **Languages** | Java and C++ (coursework and projects) · Python (actively learning) · JavaScript (ES6+), HTML5, CSS3 (applied in Spyfall) |
+| **Languages** | Java and C++ (coursework and projects) · Python (actively learning) · JavaScript (ES6+), HTML5, CSS3 (applied in Spyfall and Mafia) |
 | **Backend & AI integration** | LLM provider failover (Groq, Gemini) · Telegram and Bale bots · REST API integration · Docker · layered, testable architecture |
 | **Computer science** | Object-oriented programming · data structures · discrete mathematics · digital logic |
 | **Web platform** | Progressive Web Apps · Service Worker and Cache API · Web Audio · Canvas · responsive and RTL layouts |
@@ -106,6 +107,7 @@ I'm a computer engineering student who cares about the parts of software that ou
 ## Currently
 
 - 🔨 Polishing my open-source repositories: CI, tests, and documentation.
+- 🎭 Building the game logic of [Mafia PWA](https://github.com/mahdi-barzegar-nazari/mafia) (steps 2 to 4) on top of its finished, tested app shell.
 - 🌱 Learning: Python tooling and testing, algorithmic problem solving.
 - 📫 Open to internships and junior roles. The fastest way to reach me is [email](mailto:m.barzegar.nazari@gmail.com).
 
